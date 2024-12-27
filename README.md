@@ -4,7 +4,7 @@ I'm **Brandon** (he/him) – a curious mind with a keyboard, crafting solutions 
 
 
 ### 🚀 Skills and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,docker,typescript,nextjs,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=remix,js,react,tailwind,docker,typescript,nextjs,mongodb,bootstrap,css,html)](https://skillicons.dev)
 
 
 ### 📊 GitHub Stats:
