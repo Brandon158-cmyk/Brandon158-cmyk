@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brandon158-cmyk&show=show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/Brandon158-cmyk/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brandon158-cmyk&show=icons)](https://github.com/Brandon158-cmyk/github-readme-stats)
