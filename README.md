@@ -8,5 +8,5 @@ I'm **Brandon** (he/him) – a curious mind with a keyboard, crafting solutions 
 
 
 ### 📊 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brandon158-cmyk&show_icons=true)](https://github.com/Brandon158-cmyk/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon158-cmyk)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brandon158-cmyk&show_icons=true&theme=dark)](https://github.com/Brandon158-cmyk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon158-cmyk&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
