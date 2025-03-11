@@ -5,7 +5,3 @@ I'm **Brandon** (he/him) – a curious mind with a keyboard, crafting solutions 
 ### 🚀 Skills and Tools:
 [![My Skills](https://skillicons.dev/icons?i=remix,js,react,tailwind,docker,typescript,nextjs,mongodb,bootstrap,css,html)](https://skillicons.dev)
 
-
-### 📊 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brandon158-cmyk&show_icons=true&theme=dark)](https://github.com/Brandon158-cmyk/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon158-cmyk&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
